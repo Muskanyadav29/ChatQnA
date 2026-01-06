@@ -9,7 +9,7 @@ A FastAPI-based backend for summarizing PDFs and answering questions using LLMs.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/pdf-qna.git
+git clone https://github.com/Muskanyadav29/ChatQnA.git
 cd pdf-qna
 
 python -m venv .venv
